@@ -14,19 +14,19 @@ The repository is structured into **Levels**, where each level represents a sign
 
 | Level | Focus Area | Language | Key Skills Acquired | Status |
 |:---:|---|:---:|---|:---:|
-| **01** | **Foundations & Logic Building** | C++ | `Basics`, `Control Flow`, `Tracing`, `Problem Solving Strategies` | ✅ Completed |
-| **02** | **Modular Programming & Algorithms** | C++ | `Functions`, `Library Building`, `Memory Management`, `Math Algorithms` | ✅ Completed |
+| **01** | **Foundations & Logic Building** | C++ | `Basics`, `Control Flow`, `Tracing`, `Problem Solving Strategies` | Completed |
+| **02** | **Modular Programming & Algorithms** | C++ | `Functions`, `Library Building`, `Memory Management`, `Math Algorithms` | Completed |
 
 ---
 
 ## Level Overview
 
-### 1️⃣ Level 1: Foundations
-**Directory:** [`./01_Level_1_Basics`](./01_Level_1_Basics)
+### Level 1: Foundations
+**Directory:** [`./Algorithms-Problem-Solving-Level-1-main`](./Algorithms-Problem-Solving-Level-1-main)
 The starting point of the journey. This level focuses on raw logic building, understanding syntax, and solving fundamental problems (1 to 50) using basic control structures without relying on advanced libraries.
 
-### 2️⃣ Level 2: Modular Programming
-**Directory:** [`./02_Level_2_Modular_Programming`](./02_Level_2_Modular_Programming)
+### Level 2: Modular Programming
+**Directory:** [`./Algorithms-Problem-Solving-Level-2-main`](./Algorithms-Problem-Solving-Level-2-main)
 The shift from writing code to **architecting software**. This level introduces:
 * **Modular Design:** Breaking code into header (`.h`) and source (`.cpp`) files.
 * **Custom Libraries:** Building a reusable utility library (`MyLib`) from scratch.
